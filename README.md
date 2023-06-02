@@ -8,7 +8,10 @@ The script uses the `textbelt.com` API and limits the use per ip address to one 
 
 So if you have 100 proxies, you can send an sms to 100 different phone numbers.
 
-Regarding the telephone number, it must be in the format :
+The phone number, it must be in the format :
 `country_code + number`
 For example in France:
 `+33674589652`
+
+You will find the country codes here:
+https://countrycode.org
